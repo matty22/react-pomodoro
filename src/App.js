@@ -16,9 +16,6 @@ class App extends Component {
       originalBreakTime: 300,
       isWorkTime: true,
     }
-  }
-
-  componentDidMount() {
     let pomodoroInterval;
   }
 
