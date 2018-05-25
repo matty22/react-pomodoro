@@ -1,0 +1,9 @@
+
+.intervalControls {
+  display: flex;
+  flex-direction: column;
+}
+
+.intervalControls div {
+  margin: 15px 0px;
+}

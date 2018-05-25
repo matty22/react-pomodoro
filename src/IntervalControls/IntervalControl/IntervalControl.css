@@ -1,0 +1,21 @@
+
+.intervalControl {
+  display: flex;
+}
+
+.intervalControl button {
+  width: 50px;
+  border: none;
+  background-color: #4787ff;
+  color: #ffffff;
+  padding: 10px 10px;
+  margin: 0px 10px;
+  font-size: 18px;
+  cursor: pointer;
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+.intervalControl button:active {
+  box-shadow: 0px 0px;
+  transform: translateY(3%);
+}
